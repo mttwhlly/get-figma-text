@@ -1,0 +1,8 @@
+Field Name,Figma Name,Suggested Type,Data Type,Confidence,Is Required,Max Length,Placeholder
+body1,body1,id,string,70,false,13,true
+label,Label,id,string,70,false,17,true
+header,{Header},status,string,40,false,47,false
+caption,caption,date,string,40,false,40,false
+subtitle1,subtitle1,phone,string,40,false,10,false
+subheader,{Subheader},string,string,30,false,34,true
+placeholder,Placeholder,string,string,30,false,8,true

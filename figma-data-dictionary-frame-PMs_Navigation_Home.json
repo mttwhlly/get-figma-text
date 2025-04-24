@@ -1,0 +1,174 @@
+{
+  "body1": {
+    "figmaId": "I818:13030;12047:23218;11501:186167;11480:166231;10267:135413;11114:176166;6605:52865",
+    "figmaName": "body1",
+    "originalText": "PM ID: #######",
+    "suggestedFieldType": "id",
+    "dataType": "string",
+    "maxLength": 13,
+    "isRequired": false,
+    "validationRules": [
+      "max_length: 50"
+    ],
+    "fontSize": 16,
+    "fontFamily": "Inter",
+    "position": {
+      "x": 14941,
+      "y": -278
+    },
+    "dimensions": {
+      "width": 127,
+      "height": 24
+    },
+    "isPlaceholder": true,
+    "confidence": 70
+  },
+  "label": {
+    "figmaId": "I815:8531;11114:180060;175:4551;6570:40824",
+    "figmaName": "Label",
+    "originalText": "Group ID: #######",
+    "suggestedFieldType": "id",
+    "dataType": "string",
+    "maxLength": 17,
+    "isRequired": false,
+    "validationRules": [
+      "max_length: 50"
+    ],
+    "fontSize": 16,
+    "fontFamily": "Inter",
+    "position": {
+      "x": 15216,
+      "y": -258
+    },
+    "dimensions": {
+      "width": 172,
+      "height": 24
+    },
+    "isPlaceholder": true,
+    "confidence": 70
+  },
+  "header": {
+    "figmaId": "I815:8500;11114:137800;11479:243926;11049:147638;7726:78980;6583:46550",
+    "figmaName": "{Header}",
+    "originalText": "State Application",
+    "suggestedFieldType": "status",
+    "dataType": "string",
+    "maxLength": 47,
+    "isRequired": false,
+    "validationRules": [
+      "max_length: 50"
+    ],
+    "fontSize": 20,
+    "fontFamily": "Inter",
+    "position": {
+      "x": 14413,
+      "y": 19
+    },
+    "dimensions": {
+      "width": 568,
+      "height": 32
+    },
+    "isPlaceholder": false,
+    "confidence": 40
+  },
+  "caption": {
+    "figmaId": "I815:8532;11114:137792;11626:152478",
+    "figmaName": "caption",
+    "originalText": "© 2025 CAQH. All rights reserved.\nWeekly Maintenance Window: Sundays, 12:00 AM - 8:00 AM ET\nMonthly Deployment Window: Mondays, 12:00 AM - 8:00 AM ET\n(Deployment on Tuesday for Federal Holidays)\nCAQH solutions will be unavailable during all times above, including the APIs and SFTP.",
+    "suggestedFieldType": "date",
+    "dataType": "string",
+    "maxLength": 40,
+    "isRequired": false,
+    "validationRules": [
+      "valid_date_format",
+      "not_future_date",
+      "max_length: 564"
+    ],
+    "fontSize": 12,
+    "fontFamily": "Inter",
+    "position": {
+      "x": 15204,
+      "y": 458
+    },
+    "dimensions": {
+      "width": 288,
+      "height": 160
+    },
+    "isPlaceholder": false,
+    "confidence": 40
+  },
+  "subtitle1": {
+    "figmaId": "I815:8531;11114:180061;175:3885;11626:152452",
+    "figmaName": "subtitle1",
+    "originalText": "Kendra Patel",
+    "suggestedFieldType": "phone",
+    "dataType": "string",
+    "maxLength": 10,
+    "isRequired": false,
+    "validationRules": [
+      "valid_phone_format",
+      "digits_only",
+      "max_length: 50"
+    ],
+    "fontSize": 16,
+    "fontFamily": "Inter",
+    "position": {
+      "x": 15204,
+      "y": -202
+    },
+    "dimensions": {
+      "width": 98,
+      "height": 28
+    },
+    "isPlaceholder": false,
+    "confidence": 40
+  },
+  "subheader": {
+    "figmaId": "I815:8500;11114:137800;11479:243926;11049:147638;7726:78980;6583:46551",
+    "figmaName": "{Subheader}",
+    "originalText": "{Subheader}",
+    "suggestedFieldType": "string",
+    "dataType": "string",
+    "maxLength": 34,
+    "isRequired": false,
+    "validationRules": [
+      "max_length: 50"
+    ],
+    "fontSize": 14,
+    "fontFamily": "Inter",
+    "position": {
+      "x": 14413,
+      "y": 51
+    },
+    "dimensions": {
+      "width": 288,
+      "height": 20
+    },
+    "isPlaceholder": true,
+    "confidence": 30
+  },
+  "placeholder": {
+    "figmaId": "I815:8500;11114:137800;11479:243926;11049:147638;7726:78981;6640:52020;11114:137752;10100:148290",
+    "figmaName": "Placeholder",
+    "originalText": "Placeholder",
+    "suggestedFieldType": "string",
+    "dataType": "string",
+    "maxLength": 8,
+    "isRequired": false,
+    "validationRules": [
+      "max_length: 50"
+    ],
+    "fontSize": 16,
+    "fontFamily": "Inter",
+    "position": {
+      "x": 14511,
+      "y": 91
+    },
+    "dimensions": {
+      "width": 86,
+      "height": 48
+    },
+    "isPlaceholder": true,
+    "confidence": 30
+  }
+}
