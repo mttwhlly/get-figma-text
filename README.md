@@ -20,7 +20,7 @@ A tool to extract text layers and generate data dictionaries from Figma files us
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/figma-text-extractor.git
+git clone https://github.com/mttwhlly/get-figma-text.git
 cd figma-text-extractor
 ```
 
